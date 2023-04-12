@@ -1,0 +1,9 @@
+{
+    "latest": "v0.0.1",
+    "v0.0.1": {
+        "name": "测试版本",
+        "modified": "2023-04-01",
+        "description": "这个版本主要用于测试技术架构，没有实现系统的任何功能",
+        "url": "http://dev.dmstyle.cn/assets/dmstyle-go-0.0.1.zip"
+    }
+}
